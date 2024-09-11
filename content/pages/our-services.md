@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: UX/UI Design
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
