@@ -208,7 +208,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A 30-min free design consultation is offered
+      text: A 30-min free design consultation is offered by us
       color: text-dark
     subtitle: ''
     text: >
