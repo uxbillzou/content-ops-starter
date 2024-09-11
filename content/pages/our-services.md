@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: UX/UI Design
         tagline: ''
         subtitle: This is the item subtitle
         text: |
