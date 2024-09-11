@@ -242,7 +242,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/patrik-michalicka-r3iAqHb7JWs-unsplash.jpg
+      url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
       altText: Dope design preview
     badge:
       type: Badge
