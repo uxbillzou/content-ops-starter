@@ -214,13 +214,7 @@ sections:
     text: >
       Get a free consultation that brings your business ideas closer to
       production.
-    actions:
-      - type: Button
-        label: Get in touch
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
