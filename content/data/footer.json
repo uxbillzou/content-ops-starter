@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "London based digital design agency\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
-                "label": "Features",
+                "label": "Websites",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "APPs",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,12 +26,34 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "E-commerce",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "B2B and SaaS platforms",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Brand creative",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -40,17 +62,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Our team",
                 "altText": "careers page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,22 +75,17 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
             "altText": "Email link",
