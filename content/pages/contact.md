@@ -8,11 +8,12 @@ sections:
       text: We'd love to hear from you
       color: text-dark
     subtitle: 'We''re happy to hear from clients, partners and collaborators.'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Address: 590 Chiswick High Road, London, UK
+
+      Phone: +44 7774348345
+
+      Email: <gaoyuyao88@gmail.com>
     actions: []
     media:
       type: FormBlock
