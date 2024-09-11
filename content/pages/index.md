@@ -235,7 +235,7 @@ sections:
       production.
     actions:
       - type: Button
-        label: Get started
+        label: Get in touch
         url: /
         icon: arrowRight
         iconPosition: right
