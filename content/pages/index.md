@@ -247,6 +247,7 @@ sections:
         padding:
           - pl-8
           - pt-10
+          - pb-10
   - title:
       text: Make your design ideas come true
       color: text-dark
