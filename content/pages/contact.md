@@ -33,7 +33,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: Company name
           label: Email
           hideLabel: true
           placeholder: Your email
