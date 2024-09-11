@@ -246,6 +246,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pl-8
+          - pt-6
   - title:
       text: Make your design ideas come true
       color: text-dark
