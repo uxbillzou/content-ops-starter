@@ -242,7 +242,7 @@ sections:
         url: /
         showIcon: false
         icon: arrowLeft
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     media:
