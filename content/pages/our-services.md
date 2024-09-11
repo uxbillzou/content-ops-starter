@@ -69,8 +69,10 @@ sections:
         title: Visual Identity Design
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Craft cohesive digital brand experiences aligned with client goals and
+          market positioning, including logos, brand guidelines, and other
+          materials.
         image:
           type: ImageBlock
           url: /images/patrik-michalicka-r3iAqHb7JWs-unsplash.jpg
