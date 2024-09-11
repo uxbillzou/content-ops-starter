@@ -316,7 +316,7 @@ sections:
           name: Company name
           label: Company name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Company name
           isRequired: true
           width: full
         - name: message
