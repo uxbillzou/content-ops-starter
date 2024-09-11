@@ -111,7 +111,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Five
+        title: FOST logo design
         tagline: ''
         subtitle: ''
         text: |
