@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: An easier way to reward your employees
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
