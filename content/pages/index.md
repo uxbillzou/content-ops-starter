@@ -253,7 +253,7 @@ sections:
           - ml-0
           - mr-3
           - mt-0
-          - mb-3
+          - mb-0
   - title:
       text: Make your design ideas come true
       color: text-dark
