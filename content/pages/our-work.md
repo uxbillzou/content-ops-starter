@@ -41,8 +41,9 @@ sections:
         title: Bundls APP design
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          The product is tailored for specific product users in certain open
+          areas in the United States.
         image:
           type: ImageBlock
           url: /images/Frame 2116674815.jpg
