@@ -241,7 +241,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         flexDirection: row-reverse
   - title:
       text: Make your design ideas come true
