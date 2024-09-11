@@ -97,7 +97,7 @@ sections:
           type: ImageBlock
           styles:
             self:
-              borderRadius: x-small
+              borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
