@@ -52,7 +52,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - Redesign a website or app
+            - Redesign a website or App
           isRequired: false
           width: full
         - type: TextareaFormControl
