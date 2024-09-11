@@ -248,6 +248,7 @@ sections:
           - pl-16
           - pt-16
           - pb-0
+          - pr-16
         margin:
           - ml-3
           - mr-3
