@@ -224,35 +224,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: Free design consultion
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Contact us today
-    text: |
-      Book a free consultation that brings your ideas closer to production.
-    actions:
-      - type: Button
-        label: Get in touch
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: left
-        style: secondary
-        elementId: ''
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
