@@ -304,6 +304,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Company name
+          label: Company name
+          hideLabel: true
+          placeholder: Company name
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: Design requirements
           label: Company size
@@ -311,13 +318,6 @@ sections:
           defaultValue: Please choose...
           options: []
           isRequired: false
-          width: full
-        - type: TextFormControl
-          name: Company name
-          label: Company name
-          hideLabel: true
-          placeholder: Company name
-          isRequired: true
           width: full
         - name: message
           label: Message
