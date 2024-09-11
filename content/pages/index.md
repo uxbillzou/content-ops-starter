@@ -245,7 +245,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: flex-start
         padding:
-          - pl-5
+          - pl-8
   - title:
       text: Make your design ideas come true
       color: text-dark
