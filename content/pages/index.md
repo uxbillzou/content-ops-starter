@@ -160,7 +160,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Brands we have worked with
+  - subtitle: Brands have worked with us
     images:
       - url: /images/Frame 2116674813.jpg
         altText: Wellster logo
