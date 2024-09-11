@@ -243,7 +243,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-        justifyContent: center
+        justifyContent: flex-end
   - title:
       text: Make your design ideas come true
       color: text-dark
