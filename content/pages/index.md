@@ -180,7 +180,7 @@ sections:
       - url: /images/Frame 2116674811.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Frame 2116674812.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
