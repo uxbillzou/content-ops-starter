@@ -44,7 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: What we offer
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: User Experience (UX) Design
