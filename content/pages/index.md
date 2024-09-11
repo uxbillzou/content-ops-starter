@@ -171,9 +171,6 @@ sections:
         textAlign: center
   - subtitle: Brands we have worked with
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/Frame 2116674813.jpg
         altText: Wellster logo
         type: ImageBlock
