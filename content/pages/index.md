@@ -234,7 +234,7 @@ sections:
       type: TitleBlock
     subtitle: Contact us today
     text: |
-      Get a free consultation that brings your ideas closer to production.
+      Book a free consultation that brings your ideas closer to production.
     actions:
       - type: Button
         label: Get started
