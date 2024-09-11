@@ -14,7 +14,7 @@ sections:
       innovative, culturally relevant, and visually compelling designs that meet
       our clients' evolving needs while ensuring affordability and high quality.
     actions:
-      - label: Get started
+      - label: Learn more
         altText: ''
         url: /
         showIcon: false
