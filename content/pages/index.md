@@ -24,7 +24,9 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
+        1.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
