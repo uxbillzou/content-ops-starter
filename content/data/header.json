@@ -20,7 +20,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Our Work"
         },
         {
             "label": "Our Services",
