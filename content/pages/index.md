@@ -233,11 +233,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Contact us today
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Get a free consultation that brings your ideas closer to production.
     actions: []
     media:
       title: Title of the video
