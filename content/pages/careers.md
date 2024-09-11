@@ -11,11 +11,13 @@ sections:
       type: TitleBlock
     subtitle: YG Design
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      We are a London-based UX/UI design agency offering high-quality,
+      user-centric design solutions tailored to businesses worldwide. We
+      leverage a team of experienced designers and developers to provide
+      innovative and cost-effective digital design services for startups, SMEs,
+      and large enterprises. We aim to become a leading global UX/UI design
+      agency known for excellence, creativity, and innovation, fostering a
+      collaborative environment where talent thrives and clients succeed.
     actions:
       - label: See open positions
         url: /
