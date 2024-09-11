@@ -317,6 +317,14 @@ sections:
           placeholder: Your name
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Design requirements
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
