@@ -248,6 +248,8 @@ sections:
           - pl-16
           - pt-0
           - pb-0
+        margin:
+          - ml-3
   - title:
       text: Make your design ideas come true
       color: text-dark
