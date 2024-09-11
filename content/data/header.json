@@ -33,7 +33,7 @@
         },
         {
             "label": "Company",
-            "altText": "Careers page",
+            "altText": "Company",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
