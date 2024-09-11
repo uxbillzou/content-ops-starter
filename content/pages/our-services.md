@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      We offer exceptional design quality at a fraction of the cost compared to
+      local design agencies.
     items:
       - type: FeaturedItem
         title: UX/UI Design
