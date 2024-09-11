@@ -42,8 +42,9 @@ sections:
         title: Feature Item Two
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Design end-to-end digital products, including native apps, software
+          interfaces and online tools.
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
