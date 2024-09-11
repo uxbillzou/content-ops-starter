@@ -111,10 +111,11 @@ sections:
         type: FeaturedItem
       - title: Custom Solutions
         subtitle: Websites/mobile apps/softwares
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Offering customised services based on specific client needs, combining
+          elements from different service categories. Handling the entire design
+          process from concept to delivery, covering all aspects of UX/UI,
+          branding, and development.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
