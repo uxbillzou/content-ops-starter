@@ -86,10 +86,10 @@ sections:
               borderRadius: x-large
       - title: User Interface (UI) Design
         subtitle: Websites/mobile apps/softwares
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Create visually appealing and user-friendly interfaces that enhance
+          the overall user experience. Continuously improve based on user
+          feedback and analytics to meet user needs.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
