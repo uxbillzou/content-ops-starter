@@ -244,6 +244,8 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: flex-start
+        padding:
+          - pl-4
   - title:
       text: Make your design ideas come true
       color: text-dark
