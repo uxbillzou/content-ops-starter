@@ -51,7 +51,8 @@ sections:
           label: Design requirements
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
