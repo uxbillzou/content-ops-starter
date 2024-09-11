@@ -88,7 +88,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Wellness 2.0
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
