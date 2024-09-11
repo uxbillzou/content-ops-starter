@@ -87,7 +87,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Four
+        title: Wellness 2.0
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
