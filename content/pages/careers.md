@@ -19,7 +19,7 @@ sections:
       agency known for excellence, creativity, and innovation, fostering a
       collaborative environment where talent thrives and clients succeed.
     actions:
-      - label: See open positions
+      - label: Get in touch today
         url: /
         icon: arrowRight
         iconPosition: right
