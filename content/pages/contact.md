@@ -46,6 +46,14 @@ sections:
           placeholder: Phone
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Design requirements
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
