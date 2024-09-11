@@ -235,7 +235,16 @@ sections:
     subtitle: Contact us today
     text: |
       Get a free consultation that brings your ideas closer to production.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
