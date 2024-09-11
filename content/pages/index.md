@@ -245,7 +245,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: flex-start
         padding:
-          - pl-10
+          - pl-14
           - pt-0
           - pb-0
   - title:
