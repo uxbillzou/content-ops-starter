@@ -66,7 +66,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Visual Identity Design
         tagline: ''
         subtitle: This is the item subtitle
         text: |
