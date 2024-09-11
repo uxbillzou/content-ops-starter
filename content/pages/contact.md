@@ -54,6 +54,7 @@ sections:
           options:
             - Redesign a website or App
             - Design a new website or App
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
