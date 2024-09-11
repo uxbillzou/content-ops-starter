@@ -42,7 +42,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Contact",
             "altText": "",
             "url": "/Contact",
             "showIcon": false,
