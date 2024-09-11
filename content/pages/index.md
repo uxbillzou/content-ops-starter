@@ -226,7 +226,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Free design consultion
       color: text-dark
       styles:
         self:
