@@ -16,8 +16,9 @@ sections:
         title: An easier way to reward your employees
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Increased corporate sales and brand awareness at Giftano not only in
+          Singapore but also worldwide.
         image:
           type: ImageBlock
           url: /images/Frame 2116674814.jpg
