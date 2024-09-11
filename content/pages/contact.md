@@ -32,6 +32,13 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
