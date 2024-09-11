@@ -246,7 +246,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pl-16
-          - pt-0
+          - pt-16
           - pb-0
         margin:
           - ml-3
