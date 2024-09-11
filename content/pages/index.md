@@ -310,13 +310,6 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-        - type: TextFormControl
-          name: Company name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
         - type: SelectFormControl
           name: Design requirements
           label: Company size
@@ -324,6 +317,13 @@ sections:
           defaultValue: Please choose...
           options: []
           isRequired: false
+          width: full
+        - type: TextFormControl
+          name: Company name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
           width: full
       elementId: contact-form
       styles:
