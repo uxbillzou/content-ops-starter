@@ -230,8 +230,9 @@ sections:
       text: Free design consultation
       color: text-dark
     subtitle: Contact us today
-    text: |
-      Get a free consultation that brings your ideas closer to production.
+    text: >
+      Get a free consultation that brings your business ideas closer to
+      production.
     actions:
       - type: Button
         label: Get started
