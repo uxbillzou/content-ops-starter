@@ -48,7 +48,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Our Services
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -151,14 +151,14 @@ sections:
         type: Button
     badge:
       label: This is YG
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
