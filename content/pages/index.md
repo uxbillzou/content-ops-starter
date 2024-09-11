@@ -241,7 +241,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: arrowLeft
         iconPosition: right
         style: secondary
         elementId: ''
