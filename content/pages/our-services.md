@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Design end-to-end digital products, including native apps, software
           interfaces and online tools.
