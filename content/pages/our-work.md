@@ -65,7 +65,7 @@ sections:
       - type: FeaturedItem
         title: Design of SaaS Platform
         tagline: ''
-        subtitle: '18 Nov, 2023'
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
