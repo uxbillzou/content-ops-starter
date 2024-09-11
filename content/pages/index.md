@@ -117,7 +117,7 @@ sections:
           process from concept to delivery, covering all aspects of UX/UI,
           branding, and development.
         image:
-          url: /images/icon3.svg
+          url: /images/headway-5QgIuuBxKwM-unsplash.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
