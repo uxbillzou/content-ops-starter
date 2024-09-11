@@ -39,6 +39,13 @@ sections:
           placeholder: Company name
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Phone
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
