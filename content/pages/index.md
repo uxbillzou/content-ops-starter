@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: About YG London
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Our mission is to deliver excellent UX/UI design solutions that improve
+      user experiences and boost business growth. We are dedicated to creating
+      innovative, culturally relevant, and visually compelling designs that meet
+      our clients' evolving needs while ensuring affordability and high quality.
     actions:
       - label: Get started
         altText: ''
