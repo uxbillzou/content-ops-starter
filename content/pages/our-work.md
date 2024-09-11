@@ -135,7 +135,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item six
+        title: Fitness Industry Design-PAD
         tagline: ''
         subtitle: ''
         text: |
