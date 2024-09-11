@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: We'd love to hear from you
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 'We''re happy to hear from clients, partners and collaborators.'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
