@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: An easier way to reward your employees
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: '5 Sep, 2022'
         text: >
           Increased corporate sales and brand awareness at Giftano not only in
           Singapore but also worldwide.
