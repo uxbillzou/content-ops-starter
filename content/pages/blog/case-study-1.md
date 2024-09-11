@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: An easier way to reward your employees
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
