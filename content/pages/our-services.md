@@ -73,7 +73,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/patrik-michalicka-r3iAqHb7JWs-unsplash.jpg
           altText: Background alt text
           styles:
             self:
