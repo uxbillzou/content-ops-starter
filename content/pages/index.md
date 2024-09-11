@@ -242,7 +242,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
   - title:
       text: Make your design ideas come true
       color: text-dark
