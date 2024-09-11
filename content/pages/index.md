@@ -177,8 +177,7 @@ sections:
       - url: /images/Frame 2116674813.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
