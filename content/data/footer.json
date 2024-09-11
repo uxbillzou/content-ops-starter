@@ -87,6 +87,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
