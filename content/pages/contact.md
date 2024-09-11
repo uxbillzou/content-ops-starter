@@ -53,6 +53,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Redesign a website or App
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
