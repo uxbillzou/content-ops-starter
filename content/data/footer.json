@@ -62,7 +62,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Our team",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
