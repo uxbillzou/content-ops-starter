@@ -250,6 +250,7 @@ sections:
           - pb-0
         margin:
           - ml-3
+          - mr-3
   - title:
       text: Make your design ideas come true
       color: text-dark
