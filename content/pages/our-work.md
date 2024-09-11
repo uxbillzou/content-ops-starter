@@ -63,7 +63,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Design of SaaS Platform
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
