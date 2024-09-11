@@ -237,7 +237,7 @@ sections:
       Book a free consultation that brings your ideas closer to production.
     actions:
       - type: Button
-        label: Get started
+        label: Get in touch
         altText: ''
         url: /
         showIcon: false
