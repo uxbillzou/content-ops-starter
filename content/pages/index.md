@@ -48,7 +48,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Our Services
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
