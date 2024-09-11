@@ -210,7 +210,7 @@ sections:
       type: TitleBlock
       text: We offer a 30-min free design consultation
       color: text-dark
-    subtitle: Contact us today
+    subtitle: ''
     text: >
       Get a free consultation that brings your business ideas closer to
       production.
