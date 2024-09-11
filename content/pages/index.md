@@ -208,7 +208,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Free design consultation
+      text: We offer free design consultation
       color: text-dark
     subtitle: Contact us today
     text: >
