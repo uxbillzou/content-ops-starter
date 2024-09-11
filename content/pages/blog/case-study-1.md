@@ -1,7 +1,7 @@
 ---
 title: An easier way to reward your employees
 slug: case-study-1
-date: '2022-05-05'
+date: '0202-05-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
