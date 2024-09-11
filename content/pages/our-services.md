@@ -95,8 +95,10 @@ sections:
         title: Custom Solutions
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Offer customised services tailored to specific client needs, covering
+          all aspects of design from concept to delivery, including UX/UI,
+          branding, and development.
         image:
           type: ImageBlock
           url: /images/headway-5QgIuuBxKwM-unsplash.jpg
