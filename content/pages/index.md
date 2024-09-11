@@ -95,6 +95,9 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
