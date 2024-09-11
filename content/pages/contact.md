@@ -36,7 +36,7 @@ sections:
           name: Company name
           label: Company name
           hideLabel: true
-          placeholder: Your email
+          placeholder: Company name
           isRequired: true
           width: full
         - type: TextareaFormControl
