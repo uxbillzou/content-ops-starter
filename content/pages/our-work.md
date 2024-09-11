@@ -40,7 +40,7 @@ sections:
       - type: FeaturedItem
         title: Bundls APP design
         tagline: ''
-        subtitle: '23 Jan, 2024'
+        subtitle: ''
         text: >
           The product is tailored for specific product users in certain open
           areas in the United States.
