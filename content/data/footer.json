@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/YGlogo.jpg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "APPs",
+                "label": "Apps",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",

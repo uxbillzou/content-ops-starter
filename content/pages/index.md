@@ -14,7 +14,7 @@ sections:
       innovative, culturally relevant, and visually compelling designs that meet
       our clients' evolving needs while ensuring affordability and high quality.
     actions:
-      - label: Learn more
+      - label: About us
         altText: ''
         url: /
         showIcon: false
@@ -140,7 +140,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: More services
+      - label: All services
         altText: ''
         url: /
         showIcon: false
@@ -214,75 +214,46 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
-      text: Free design consultion
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
       type: TitleBlock
+      text: Free design consultation
+      color: text-dark
     subtitle: Contact us today
-    text: |
-      Get a free consultation that brings your ideas closer to production.
+    text: >
+      Get a free consultation that brings your business ideas closer to
+      production.
     actions:
       - type: Button
-        label: Get started
-        altText: ''
+        label: Get in touch
         url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: left
+        icon: arrowRight
+        iconPosition: right
         style: secondary
-        elementId: ''
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
+      type: ImageBlock
+      url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is YG
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: flex-start
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pl-16
+          - pt-16
+          - pb-16
+          - pr-16
+        margin:
+          - ml-0
+          - mr-3
+          - mt-0
+          - mb-0
   - title:
       text: Make your design ideas come true
       color: text-dark

@@ -15,34 +15,46 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Our Work",
+            "url": "/our work",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "Our Work"
+        },
+        {
+            "label": "Our Services",
+            "altText": "Our Services",
+            "url": "/our services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Company",
+            "altText": "Company",
+            "url": "/company",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "type": "Link",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "/Contact",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
