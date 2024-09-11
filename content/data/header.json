@@ -25,7 +25,7 @@
         {
             "label": "Our Services",
             "altText": "Our Services",
-            "url": "/blog",
+            "url": "/our services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
