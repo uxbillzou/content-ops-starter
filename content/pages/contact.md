@@ -34,7 +34,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: Company name
-          label: Email
+          label: Company name
           hideLabel: true
           placeholder: Your email
           isRequired: true
