@@ -57,7 +57,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Websites/mobile apps/softwares
         text: >
           Conduct comprehensive user research and usability testing to develop
           effective design strategies, wireframing & prototyping, and
