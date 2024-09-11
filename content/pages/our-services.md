@@ -16,8 +16,10 @@ sections:
         title: UX/UI Design
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Conduct comprehensive user research and usability testing to develop
+          effective design strategies, wireframing & prototyping, and
+          interaction design.
         image:
           type: ImageBlock
           url: /images/5731725541505_.pic.jpg
