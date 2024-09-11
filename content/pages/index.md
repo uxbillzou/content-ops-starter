@@ -56,7 +56,7 @@ sections:
     subtitle: What we offer
     items:
       - type: FeaturedItem
-        title: 500k
+        title: User Experience (UX) Design
         subtitle: Websites/mobile apps/softwares
         text: >
           Conduct comprehensive user research and usability testing to develop
