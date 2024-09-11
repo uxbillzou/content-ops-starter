@@ -141,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is YG
+      label: ''
       color: text-light
       styles:
         self:
