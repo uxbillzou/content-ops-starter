@@ -246,7 +246,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pl-8
-          - pt-10
+          - pt-24
           - pb-10
   - title:
       text: Make your design ideas come true
