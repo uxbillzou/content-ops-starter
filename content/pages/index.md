@@ -13,16 +13,7 @@ sections:
       user experiences and boost business growth. We are dedicated to creating
       innovative, culturally relevant, and visually compelling designs that meet
       our clients' evolving needs while ensuring affordability and high quality.
-    actions:
-      - label: About us
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: >-
         /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
