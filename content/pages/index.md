@@ -151,7 +151,7 @@ sections:
         type: Button
     badge:
       label: This is YG
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
