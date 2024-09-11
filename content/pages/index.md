@@ -227,7 +227,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Free design consultation
       color: text-dark
     subtitle: Be in good company
     text: >
