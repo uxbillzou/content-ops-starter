@@ -22,7 +22,7 @@ sections:
           interaction design.
         image:
           type: ImageBlock
-          url: /images/5731725541505_.pic.jpg
+          url: /images/jason-goodman-Kewm3qZfzOw-unsplash.jpg
           altText: Background alt text
           styles:
             self:
