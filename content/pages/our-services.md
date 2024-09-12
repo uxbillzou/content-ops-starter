@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Our Services
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -179,7 +179,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Our Services
+slug: /our services
 isDraft: false
 seo:
   type: Seo
