@@ -316,7 +316,7 @@ sections:
       label: Contact Us
       color: text-dark
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
