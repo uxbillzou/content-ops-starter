@@ -182,7 +182,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: YG - London creative design agency
-  metaDescription: ''
+  metaDescription: >-
+    websites, Apps, UX, UI, SaaS, B2B, visual design, branding, custom
+    solutions, front-end, back-end, development, ongoing support, mainentance
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
