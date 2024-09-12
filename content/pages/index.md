@@ -205,7 +205,7 @@ sections:
     subtitle: Case studies
     actions:
       - type: Button
-        label: Get started
+        label: More projects
         altText: ''
         url: /our work
         showIcon: false
