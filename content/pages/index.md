@@ -219,7 +219,7 @@ sections:
       type: ImageBlock
       url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
       altText: Dope design preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
