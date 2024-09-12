@@ -4,15 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design your digital production with us today
+      text: >-
+        Crafting innovative, high quality designs that elevate your user
+        experiences.
       color: text-light
       type: TitleBlock
-    subtitle: About YG London
-    text: >
-      Our mission is to deliver excellent UX/UI design solutions that improve
-      user experiences and boost business growth. We are dedicated to creating
-      innovative, culturally relevant, and visually compelling designs that meet
-      our clients' evolving needs while ensuring affordability and high quality.
+    subtitle: ''
+    text: ''
     actions: []
     media:
       url: >-
