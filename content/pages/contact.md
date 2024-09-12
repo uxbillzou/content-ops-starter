@@ -33,6 +33,13 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
+          name: Company
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: TextFormControl
           name: Phone
           label: Phone
           hideLabel: true
