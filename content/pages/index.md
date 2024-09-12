@@ -46,10 +46,7 @@ sections:
       - type: FeaturedItem
         title: User Experience (UX) Design
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Conduct comprehensive user research and usability testing to develop
-          effective design strategies, wireframing & prototyping, and
-          interaction design.
+        text: ''
         actions: []
         elementId: null
         colors: bg-dark-fg-light
