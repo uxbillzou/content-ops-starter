@@ -267,7 +267,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: More project
+        label: More projects
         altText: ''
         url: /our work
         showIcon: false
@@ -405,8 +405,11 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: creative design agency
-  metaDescription: creative design agency by ygdigitaldesign
+  metaTitle: Creative digital design agency
+  metaDescription: >-
+    creative digital design agency, branding, websites, Apps, creative services,
+    YG design, design services, digital design, yg studio, yg design studio, yg
+    digital design
   socialImage: >-
     /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
     1.png
