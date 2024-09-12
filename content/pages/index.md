@@ -212,6 +212,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: Case studies
