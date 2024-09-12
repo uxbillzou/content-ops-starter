@@ -13,16 +13,7 @@ sections:
       user experiences and boost business growth. We are dedicated to creating
       innovative, culturally relevant, and visually compelling designs that meet
       our clients' evolving needs while ensuring affordability and high quality.
-    actions:
-      - label: About us
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: >-
         /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
@@ -32,7 +23,7 @@ sections:
       type: ImageBlock
     badge:
       label: This is YG
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
@@ -53,7 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: What we offer
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: User Experience (UX) Design
@@ -150,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is YG
+      label: ''
       color: text-light
       styles:
         self:
@@ -169,7 +160,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Brands we have worked with
+  - subtitle: Brands have worked with us
     images:
       - url: /images/Frame 2116674813.jpg
         altText: Wellster logo
@@ -217,27 +208,17 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Free design consultation
+      text: A design consultation is on us
       color: text-dark
-    subtitle: Contact us today
+    subtitle: ''
     text: >
       Get a free consultation that brings your business ideas closer to
       production.
-    actions:
-      - type: Button
-        label: Get in touch
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is YG
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
@@ -325,7 +306,7 @@ sections:
         elementId: null
     badge:
       label: Contact Us
-      color: text-primary
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
