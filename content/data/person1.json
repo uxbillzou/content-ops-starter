@@ -27,7 +27,7 @@
             "borderColor": "border-dark",
             "borderStyle": "solid",
             "borderWidth": 0,
-            "borderRadius": "none",
+            "borderRadius": "large",
             "justifyContent": "center"
         }
     },
