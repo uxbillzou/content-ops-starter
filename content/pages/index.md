@@ -265,7 +265,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: center
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /our work
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
