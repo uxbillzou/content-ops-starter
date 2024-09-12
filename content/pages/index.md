@@ -66,7 +66,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: center
+            textAlign: left
             borderColor: border-dark
             borderWidth: 0
             borderStyle: none
