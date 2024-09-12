@@ -77,7 +77,9 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Elevate your brand with smart value
-  metaDescription: pre
+  metaDescription: >-
+    premium, enterprises, SMEs, Startups, branding, websites, Apps, Saas, london
+    digital design agency
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
