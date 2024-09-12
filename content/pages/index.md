@@ -223,7 +223,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
+      url: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
