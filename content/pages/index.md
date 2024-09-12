@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Crafting innovative, high quality designs that elevate your user
-        experiences.
+      text: 'Crafting innovative, digital designs that elevate your user experiences.'
       color: text-light
       type: TitleBlock
     subtitle: ''
