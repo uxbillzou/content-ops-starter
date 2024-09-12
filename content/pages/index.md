@@ -249,7 +249,7 @@ sections:
             borderColor: border-dark
             borderStyle: none
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Bundls APP design
         tagline: ''
         subtitle: ''
         text: ''
