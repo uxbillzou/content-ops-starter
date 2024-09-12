@@ -78,7 +78,7 @@ sections:
 seo:
   metaTitle: Elevate your brand with smart value
   metaDescription: >-
-    premium, enterprises, SMEs, Startups, branding, websites, Apps, Saas, london
+    premium, enterprises, SMEs, Startups, branding, websites, Apps, Saas, London
     creative digital design agency
   socialImage: /images/main-hero.jpg
   type: Seo
