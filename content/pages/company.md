@@ -77,7 +77,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Elevate your brand with smart value
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: pre
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
