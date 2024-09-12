@@ -234,7 +234,7 @@ sections:
           - mt-0
           - mb-0
   - title:
-      text: Let's bring your design ideas to life!
+      text: Let's bring your design ideas to life
       color: text-light
       type: TitleBlock
     subtitle: We'd love to hear more from you!
