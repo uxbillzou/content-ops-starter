@@ -95,7 +95,7 @@ seo:
   metaTitle: Talk to YG Design - Free design consultation with us today
   metaDescription: >-
     talk to YG, free design consultation, make your creative ideas come to
-    production
+    production. get in touch, contact us
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
