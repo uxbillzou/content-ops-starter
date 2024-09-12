@@ -179,7 +179,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /Our Services
+slug: /our services
 isDraft: false
 seo:
   type: Seo
