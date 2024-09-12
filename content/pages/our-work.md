@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Case Studies
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
