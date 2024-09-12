@@ -184,7 +184,7 @@ sections:
     title:
       type: TitleBlock
       text: Case studies
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
