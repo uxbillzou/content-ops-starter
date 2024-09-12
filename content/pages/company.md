@@ -51,7 +51,7 @@ sections:
       url: /images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg
   - title:
       text: Meet the team
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
