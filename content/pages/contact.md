@@ -36,7 +36,7 @@ sections:
           name: Company
           label: Company
           hideLabel: true
-          placeholder: Your name
+          placeholder: Company
           isRequired: true
           width: full
         - type: TextFormControl
