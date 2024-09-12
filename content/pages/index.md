@@ -68,7 +68,7 @@ sections:
             justifyContent: center
             textAlign: left
             borderColor: border-dark
-            borderWidth: 0
+            borderWidth: 8
             borderStyle: none
         image:
           type: ImageBlock
