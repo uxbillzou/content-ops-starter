@@ -1,17 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ],
-                "borderWidth": 0,
-                "borderRadius": "medium"
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Our Work",
