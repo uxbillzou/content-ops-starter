@@ -279,7 +279,7 @@ sections:
             - Design a new website or App
             - Branding or rebranding
             - B2B SaaS
-            - 'Development, ongoing support and maintennance'
+            - 'Development, ongoing support and maintenance'
           isRequired: false
           width: full
         - name: message
