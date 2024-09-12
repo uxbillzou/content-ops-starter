@@ -176,7 +176,7 @@ slug: /our work
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Projects - YG
+  metaTitle: Projects - YG - Our work - creative digital design agency
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
