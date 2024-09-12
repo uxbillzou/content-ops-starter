@@ -192,7 +192,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-        textDecoration: underline
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
