@@ -22,8 +22,8 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is YG
-      color: text-dark
+      label: ''
+      color: text-light
       type: Badge
     elementId: ''
     colors: bg-dark-fg-light
@@ -186,6 +186,9 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-2
+          - pb-2
       subtitle:
         textAlign: center
     type: ImageGallerySection
@@ -220,7 +223,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
+      url: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
