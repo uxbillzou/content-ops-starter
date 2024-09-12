@@ -180,36 +180,6 @@ sections:
         textAlign: center
         fontWeight: 700
     type: ImageGallerySection
-  - posts: []
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-10
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: Case studies
-    actions:
-      - type: Button
-        label: More projects
-        altText: ''
-        url: /our work
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -307,6 +277,36 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - posts: []
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-10
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    subtitle: Case studies
+    actions:
+      - type: Button
+        label: More projects
+        altText: ''
+        url: /our work
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: GenericSection
     title:
       type: TitleBlock
