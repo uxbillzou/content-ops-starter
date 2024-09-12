@@ -32,13 +32,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: EmailFormControl
-          name: Company name
-          label: Company name
-          hideLabel: true
-          placeholder: Company name
-          isRequired: true
-          width: full
         - type: TextFormControl
           name: Phone
           label: Phone
