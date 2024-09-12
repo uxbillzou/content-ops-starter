@@ -37,6 +37,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            borderColor: border-dark
       - type: FeaturedItem
         title: Bundls APP design
         tagline: ''
