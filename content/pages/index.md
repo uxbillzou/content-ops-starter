@@ -6,7 +6,7 @@ sections:
     title:
       text: >-
         Crafting creative digital designs that inspire engagement with your
-        audience.
+        audiences.
       color: text-light
       type: TitleBlock
     subtitle: ''
