@@ -179,6 +179,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
+        textDecoration: underline
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
