@@ -10,9 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      We offer exceptional design quality at a fraction of the cost compared to
-      local design agencies.
+    subtitle: Elevate Your Brand with Smart Value
     items:
       - type: FeaturedItem
         title: UX/UI Design
