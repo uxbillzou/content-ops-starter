@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design your digital production with us
+      text: Design your digital production with us today
       color: text-light
       type: TitleBlock
     subtitle: About YG London
@@ -152,7 +152,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -187,10 +187,11 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-2
+          - pt-14
           - pb-2
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
@@ -204,17 +205,21 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-10
           - pl-16
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Case studies
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A design consultation is on us
+      text: Free design consultation
       color: text-dark
     subtitle: ''
     text: >
@@ -321,6 +326,13 @@ sections:
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pl-14
+          - pt-9
+          - pr-4
+          - pb-4
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
