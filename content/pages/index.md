@@ -267,7 +267,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: More project
+        label: More projects
         altText: ''
         url: /our work
         showIcon: false
