@@ -183,7 +183,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ca
+      text: Case studies
       color: text-primary
       styles:
         self:
