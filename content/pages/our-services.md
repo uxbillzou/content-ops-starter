@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Distinctive design services – Elevate Your Brand with Smart Value
+    subtitle: Distinctive Design Services – Elevate Your Brand with Smart Value
     items:
       - type: FeaturedItem
         title: UX/UI Design
