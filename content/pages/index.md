@@ -212,7 +212,7 @@ sections:
     title:
       type: TitleBlock
       text: A design consultation is on us
-      color: text-light
+      color: text-dark
     subtitle: ''
     text: >
       Get a free consultation that brings your business ideas closer to
