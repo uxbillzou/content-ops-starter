@@ -271,7 +271,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Design requirements
-          label: Company size
+          label: Design requirements
           hideLabel: false
           defaultValue: Please choose...
           options: []
