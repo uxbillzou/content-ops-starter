@@ -188,7 +188,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: An easier way to reward your employees
