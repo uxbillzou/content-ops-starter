@@ -61,6 +61,7 @@ sections:
       - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
+      - content/data/christiane.json
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
