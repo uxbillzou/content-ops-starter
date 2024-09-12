@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Christiane",
-    "role": "Job title",
+    "role": "Lead Developer",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
