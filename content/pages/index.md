@@ -270,6 +270,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
       - type: FeaturedItem
         title: Design of SaaS Platform
         tagline: ''
