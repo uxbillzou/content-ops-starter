@@ -1,10 +1,11 @@
 {
     "type": "Person",
-    "name": "Ziwa H",
-    "role": "Creative Director",
+    "name": "Christiane Celeste",
+    "role": "Lead Developer",
     "image": {
-        "url": "/images/avataaars (6).png",
-        "altText": "Nina Mercado",
+        "type": "ImageBlock",
+        "url": "/images/avataaars (10).png",
+        "altText": "First Last",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -12,11 +13,9 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -26,12 +25,11 @@
                 "pr-6"
             ],
             "textAlign": "center",
-            "borderColor": "border-dark",
+            "borderColor": "border-neutral",
             "borderStyle": "solid",
             "borderWidth": 0,
-            "borderRadius": "large",
+            "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": ""
+    }
 }
