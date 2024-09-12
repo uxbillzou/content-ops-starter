@@ -206,7 +206,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: YG free design consultation
+      text: YG design consultation
       color: text-dark
     subtitle: ''
     text: >
