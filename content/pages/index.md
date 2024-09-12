@@ -405,7 +405,7 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: creative digital design agency
+  metaTitle: Creative digital design agency
   metaDescription: >-
     creative digital design agency, branding, websites, Apps, creative services,
     YG design, design services, digital design, yg studio, yg design studio, yg
