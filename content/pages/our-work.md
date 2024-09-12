@@ -177,7 +177,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Projects - YG - Our work - creative digital design agency
-  metaDescription: ''
+  metaDescription: 'Projects, YG, Our work, creative digital design agency'
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
