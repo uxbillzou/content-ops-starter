@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design your digital production with us todaay
+      text: Design your digital production with us today
       color: text-light
       type: TitleBlock
     subtitle: About YG London
