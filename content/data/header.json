@@ -1,18 +1,4 @@
 {
-    "logo": {
-        "url": "/images/YGlogo-vectormaker-co 2.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ],
-                "borderWidth": 0,
-                "borderRadius": "medium"
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Our Work",
@@ -54,7 +40,21 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-dark-fg-light",
-    "type": "Header"
+    "type": "Header",
+    "title": "YG",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-4",
+                "pl-4",
+                "pr-3",
+                "pb-4"
+            ],
+            "margin": [
+                "mt-0"
+            ]
+        }
+    }
 }

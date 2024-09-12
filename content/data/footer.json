@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/YGlogo-vectormaker-co 2.png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "London based digital design agency\n",
     "primaryLinks": {
         "title": "Services",
@@ -114,5 +109,6 @@
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "YG"
 }
