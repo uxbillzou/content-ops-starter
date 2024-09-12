@@ -123,7 +123,7 @@ sections:
     actions:
       - label: All services
         altText: ''
-        url: /
+        url: /our services
         showIcon: false
         icon: arrowRight
         iconPosition: right
