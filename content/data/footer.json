@@ -59,7 +59,7 @@
             {
                 "label": "Our team",
                 "altText": "careers page",
-                "url": "/our work",
+                "url": "/company",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
