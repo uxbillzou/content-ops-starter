@@ -43,5 +43,12 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": "YG"
+    "title": "YG",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6"
+            ]
+        }
+    }
 }
