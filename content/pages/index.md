@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Design your digital production with us
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: About YG London
     text: >
