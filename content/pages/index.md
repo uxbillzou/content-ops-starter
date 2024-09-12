@@ -224,7 +224,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: An easier way to reward your employees
         tagline: ''
         subtitle: This is the item subtitle
         text: |
