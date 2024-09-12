@@ -69,6 +69,7 @@ sections:
             textAlign: left
             borderColor: border-dark
             borderWidth: 0
+            borderStyle: solid
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
