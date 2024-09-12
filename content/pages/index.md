@@ -23,7 +23,7 @@ sections:
       type: ImageBlock
     badge:
       label: This is YG
-      color: text-dark
+      color: text-light
       type: Badge
     elementId: ''
     colors: bg-dark-fg-light
