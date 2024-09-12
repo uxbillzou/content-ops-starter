@@ -178,7 +178,7 @@ sections:
           - pb-10
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 400
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
