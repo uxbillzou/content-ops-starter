@@ -322,7 +322,7 @@ sections:
           - pb-4
 seo:
   metaTitle: creative design agency
-  metaDescription: 'creative design agency by '
+  metaDescription: creative design agency by ygdigitaldesign
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
