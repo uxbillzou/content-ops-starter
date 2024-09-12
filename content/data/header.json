@@ -1,13 +1,13 @@
 {
     "logo": {
-        "url": "/images/logo.png",
+        "url": "/images/YGlogo-vectormaker-co 2.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
                     "mr-3"
                 ],
-                "borderWidth": 2,
+                "borderWidth": 0,
                 "borderRadius": "medium"
             }
         },
