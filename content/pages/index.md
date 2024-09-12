@@ -203,6 +203,16 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: Case studies
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /our work
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: GenericSection
     title:
       type: TitleBlock
