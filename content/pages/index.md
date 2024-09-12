@@ -234,7 +234,7 @@ sections:
           - mt-0
           - mb-0
   - title:
-      text: Make your design ideas come true
+      text: Let's bring your design ideas to life!
       color: text-light
       type: TitleBlock
     subtitle: Book a free consultation with us today
