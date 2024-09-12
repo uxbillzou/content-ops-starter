@@ -210,8 +210,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Get a free consultation that brings your business ideas closer to
-      production.
+      Take the first step towards bringing your business ideas to life with our
+      free consultation!
     actions: []
     media:
       type: ImageBlock
