@@ -98,10 +98,7 @@ sections:
             flexDirection: row
       - title: User Interface (UI) Design
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Create visually appealing and user-friendly interfaces that enhance
-          the overall user experience. Continuously improve based on user
-          feedback and analytics to meet user needs.
+        text: ''
         image:
           url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
           altText: Featured icon two
