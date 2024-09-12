@@ -1,6 +1,6 @@
 ---
 title: Company
-slug: careers
+slug: /company
 sections:
   - title:
       text: A forward-thinking design agency
