@@ -248,6 +248,7 @@ sections:
             flexDirection: col
             textAlign: center
             borderColor: border-dark
+            borderStyle: solid
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
