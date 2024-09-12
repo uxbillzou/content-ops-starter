@@ -19,7 +19,7 @@ sections:
       to help our clients thrive and succeed!
     actions:
       - label: Free design consultation
-        url: Contact
+        url: contact
         icon: arrowRight
         iconPosition: right
         style: primary
