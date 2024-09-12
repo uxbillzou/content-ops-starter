@@ -123,11 +123,7 @@ sections:
         type: FeaturedItem
       - title: Custom Solutions
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Offering customised services based on specific client needs, combining
-          elements from different service categories. Handling the entire design
-          process from concept to delivery, covering all aspects of UX/UI,
-          branding, and development.
+        text: ''
         image:
           url: /images/headway-5QgIuuBxKwM-unsplash.jpg
           altText: Featured icon three
