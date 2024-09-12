@@ -326,7 +326,7 @@ sections:
       self:
         padding:
           - pl-4
-          - pt-4
+          - pt-8
           - pr-4
           - pb-4
 seo:
