@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Free design consultation
         url: /
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: primary
         type: Button
