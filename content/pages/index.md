@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Crafting creative digital designs that inspire engagement with your
-        audiences.
+      text: Crafting digital designs that ignite inspiration and engage audiences.
       color: text-light
       type: TitleBlock
     subtitle: ''
