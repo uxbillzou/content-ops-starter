@@ -174,45 +174,110 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-14
-          - pb-2
+          - pt-10
+          - pb-10
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 400
+        textDecoration: underline
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Case studies
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: An easier way to reward your employees
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Frame 2116674814.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+            borderColor: border-dark
+            borderStyle: none
+      - type: FeaturedItem
+        title: Bundls APP design
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Frame 2116674815.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+      - type: FeaturedItem
+        title: Design of SaaS Platform
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Frame 2116674816.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+    actions: []
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-10
-          - pl-16
+          - pt-16
+          - pl-8
           - pb-16
-          - pr-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 700
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: Case studies
-    actions:
-      - type: Button
-        label: More projects
-        altText: ''
-        url: /our work
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
   - type: GenericSection
     title:
       type: TitleBlock
