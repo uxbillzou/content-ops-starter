@@ -93,7 +93,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Talk to YG Design - Free design consultation with us today
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: 'talk to YG, free design consultation, '
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
