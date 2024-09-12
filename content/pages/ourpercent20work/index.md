@@ -171,7 +171,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /our work
+slug: /our%20work/
 isDraft: false
 seo:
   type: Seo
