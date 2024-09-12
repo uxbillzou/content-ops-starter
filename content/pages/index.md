@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Crafting innovative, high quality designs that elevate user
-        experiences.Design your digital production with us today
+      text: 'Crafting innovative, high quality designs that elevate user experiences.'
       color: text-light
       type: TitleBlock
     subtitle: ''
