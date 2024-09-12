@@ -32,11 +32,11 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: EmailFormControl
-          name: Company name
-          label: Company name
+        - type: TextFormControl
+          name: Company
+          label: Company
           hideLabel: true
-          placeholder: Company name
+          placeholder: Company
           isRequired: true
           width: full
         - type: TextFormControl
