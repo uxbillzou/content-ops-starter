@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Elevate Your Brand with Smart Value
+    subtitle: Elevate your brand with smart value
     items:
       - type: FeaturedItem
         title: UX/UI Design
