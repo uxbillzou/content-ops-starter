@@ -322,6 +322,10 @@ sections:
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pl-4
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
