@@ -405,7 +405,7 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: Creative digital design agency
+  metaTitle: Digital design agency London
   metaDescription: >-
     Creative Digital Design Agency London, branding, websites, Apps, creative
     services, YG design London, design services London, digital design London,
