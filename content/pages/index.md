@@ -9,7 +9,7 @@ sections:
         experiences.Design your digital production with us today
       color: text-light
       type: TitleBlock
-    subtitle: About YG London
+    subtitle: ''
     text: ''
     actions: []
     media:
