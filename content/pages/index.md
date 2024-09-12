@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Crafting creative digital designs that inspire engagement with your
-        audiences.
+      text: Crafting digital designs that ignite inspiration and engage audiences.
       color: text-light
       type: TitleBlock
     subtitle: ''
@@ -34,6 +32,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: Our Services
@@ -47,10 +46,7 @@ sections:
       - type: FeaturedItem
         title: User Experience (UX) Design
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Conduct comprehensive user research and usability testing to develop
-          effective design strategies, wireframing & prototyping, and
-          interaction design.
+        text: ''
         actions: []
         elementId: null
         colors: bg-dark-fg-light
@@ -78,10 +74,7 @@ sections:
               borderRadius: medium
       - title: User Interface (UI) Design
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Create visually appealing and user-friendly interfaces that enhance
-          the overall user experience. Continuously improve based on user
-          feedback and analytics to meet user needs.
+        text: ''
         image:
           url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
           altText: Featured icon two
@@ -106,11 +99,7 @@ sections:
         type: FeaturedItem
       - title: Custom Solutions
         subtitle: Websites/mobile apps/softwares
-        text: >
-          Offering customised services based on specific client needs, combining
-          elements from different service categories. Handling the entire design
-          process from concept to delivery, covering all aspects of UX/UI,
-          branding, and development.
+        text: ''
         image:
           url: /images/headway-5QgIuuBxKwM-unsplash.jpg
           altText: Featured icon three
@@ -217,12 +206,12 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Free design consultation
+      text: Design consultation
       color: text-dark
     subtitle: ''
     text: >
-      Get a free consultation that brings your business ideas closer to
-      production.
+      Take the first step towards bringing your business ideas to life with our
+      free consultation!
     actions: []
     media:
       type: ImageBlock
@@ -245,10 +234,10 @@ sections:
           - mt-0
           - mb-0
   - title:
-      text: Make your design ideas come true
+      text: Let's bring your design ideas to life
       color: text-light
       type: TitleBlock
-    subtitle: Book a free consultation with us today
+    subtitle: We'd love to hear more from you
     text: |
       Address: 590 Chiswick High Road, London, UK
 
@@ -332,9 +321,11 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: creative design agency
+  metaDescription: creative design agency by ygdigitaldesign
+  socialImage: >-
+    /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
+    1.png
   type: Seo
 type: PageLayout
 ---
