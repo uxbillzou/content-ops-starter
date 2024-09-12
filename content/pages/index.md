@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Design your digital production with us
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: About YG London
     text: >
@@ -26,7 +26,7 @@ sections:
       color: text-dark
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -39,7 +39,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Our Services
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -55,7 +55,7 @@ sections:
           interaction design.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -67,6 +67,9 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            borderColor: border-dark
+            borderWidth: 0
+            borderStyle: none
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
@@ -90,7 +93,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -119,7 +122,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -149,7 +152,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -237,7 +240,7 @@ sections:
           - mb-0
   - title:
       text: Make your design ideas come true
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Book a free consultation with us today
     text: |
@@ -271,10 +274,15 @@ sections:
           width: full
         - type: SelectFormControl
           name: Design requirements
-          label: Company size
+          label: Design requirements
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - Redesign a website or App
+            - Design a new website or App
+            - Branding or rebranding
+            - B2B SaaS
+            - 'Development, ongoing support and maintenance'
           isRequired: false
           width: full
         - name: message
@@ -306,9 +314,9 @@ sections:
         elementId: null
     badge:
       label: Contact Us
-      color: text-dark
+      color: text-light
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
