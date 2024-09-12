@@ -227,8 +227,7 @@ sections:
         title: An easier way to reward your employees
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
