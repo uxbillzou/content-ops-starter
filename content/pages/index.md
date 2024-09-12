@@ -252,8 +252,7 @@ sections:
         title: Feature Item Two
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/Frame 2116674815.jpg
