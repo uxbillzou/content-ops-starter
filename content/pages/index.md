@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Crafting innovative, high quality designs that elevate your user
-        experiences.
+        Crafting creative digital designs that inspire engagement with your
+        audiences.
       color: text-light
       type: TitleBlock
     subtitle: ''
