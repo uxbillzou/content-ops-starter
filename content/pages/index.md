@@ -277,7 +277,7 @@ sections:
           options:
             - Redesign a website or App
             - Design a new website or App
-            - ''
+            - Branding or rebranding
           isRequired: false
           width: full
         - name: message
