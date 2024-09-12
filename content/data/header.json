@@ -47,7 +47,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-4",
+                "pt-3",
                 "pl-4",
                 "pr-4",
                 "pb-3"
