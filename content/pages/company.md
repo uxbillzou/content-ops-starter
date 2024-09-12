@@ -19,7 +19,7 @@ sections:
       to help our clients thrive and succeed!
     actions:
       - label: Free design consultation
-        url: Contact
+        url: /Contact
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -76,8 +76,10 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Elevate your brand with smart value
+  metaDescription: >-
+    premium, enterprises, SMEs, Startups, branding, websites, Apps, Saas, London
+    creative digital design agency
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
