@@ -11,13 +11,12 @@ sections:
       type: TitleBlock
     subtitle: YG Design
     text: >
-      We are a London-based UX/UI design agency offering high-quality,
-      user-centric design solutions tailored to businesses worldwide. We
-      leverage a team of experienced designers and developers to provide
-      innovative and cost-effective digital design services for startups, SMEs,
-      and large enterprises. We aim to become a leading global UX/UI design
-      agency known for excellence, creativity, and innovation, fostering a
-      collaborative environment where talent thrives and clients succeed.
+      We're a London-based UX/UI design agency that's all about creating awesome
+      digital experiences. Our team of talented designers and developers are
+      here to help startups, SMEs, and large enterprises with innovative and
+      effective design solutions. Our goal is to be a top global UX/UI design
+      agency known for our creativity and innovation. We love working together
+      to help our clients thrive and succeed!
     actions:
       - label: Free design consultation
         url: /
@@ -31,7 +30,7 @@ sections:
         padding:
           - pt-40
           - pl-4
-          - pb-40
+          - pb-14
           - pr-4
         alignItems: center
         flexDirection: row-reverse
@@ -62,6 +61,7 @@ sections:
       - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
+      - content/data/christiane.json
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
