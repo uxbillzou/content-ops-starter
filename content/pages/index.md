@@ -405,7 +405,7 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: creative design agency
+  metaTitle: creative digital design agency
   metaDescription: creative design agency by ygdigitaldesign
   socialImage: >-
     /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
