@@ -22,7 +22,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is YG
+      label: ''
       color: text-light
       type: Badge
     elementId: ''
