@@ -321,7 +321,7 @@ sections:
           - pr-4
           - pb-4
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: creative design agency
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
