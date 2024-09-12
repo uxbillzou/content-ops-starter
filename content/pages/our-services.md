@@ -39,7 +39,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: B2B and SaaS Platforms Design
         tagline: ''
         subtitle: ''
         text: >
