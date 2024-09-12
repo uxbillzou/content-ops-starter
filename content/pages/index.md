@@ -226,7 +226,7 @@ sections:
       - type: FeaturedItem
         title: An easier way to reward your employees
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
