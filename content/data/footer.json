@@ -5,7 +5,7 @@
         "links": [
             {
                 "label": "Websites",
-                "altText": "Features page",
+                "altText": "",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
