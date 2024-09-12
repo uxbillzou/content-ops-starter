@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: "Our\_Distinctive"
+      text: Our Services
       color: text-dark
       styles:
         self:
