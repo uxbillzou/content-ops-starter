@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design your digital production with us today
+      text: >-
+        Crafting innovative, high quality designs that elevate user
+        experiences.Design your digital production with us today
       color: text-light
       type: TitleBlock
     subtitle: About YG London
