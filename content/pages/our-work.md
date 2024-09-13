@@ -117,8 +117,10 @@ sections:
         title: FOST Brand Design
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          FOST is an automated forecasting platform. This plan uses independent
+          circles as a metaphor for multi-dimensional and multi-angle numbers.
+          Keywords: vibrant, diverse and open prediction. 
         image:
           type: ImageBlock
           url: /images/12.png
