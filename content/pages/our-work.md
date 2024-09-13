@@ -13,12 +13,12 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: An easier way to reward your employees
+        title: An Easier Way To Reward Your Employees
         tagline: ''
         subtitle: ''
         text: >
-          Increased corporate sales and brand awareness at Giftano not only in
-          Singapore but also worldwide.
+          Giftano is a platform that allows companies to send digital gifts to
+          their customers and employees easily.
         image:
           type: ImageBlock
           url: /images/Frame 2116674814.jpg
@@ -39,11 +39,11 @@ sections:
             flexDirection: col
             borderColor: border-dark
       - type: FeaturedItem
-        title: Bundls APP design
+        title: Bundls APP Design
         tagline: ''
         subtitle: ''
         text: >
-          The product is tailored for specific product users in certain open
+          Bundls App is tailored for specific product users in certain open
           areas in the United States.
         image:
           type: ImageBlock
@@ -67,8 +67,7 @@ sections:
         title: Design of SaaS Platform
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: "Bite Stream is a configurable software-as-a-service (SaaS) platform designed to enable fund managers to completely streamline and scale the distribution of private market investment products easily, securely and efficiently.\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n"
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
@@ -91,8 +90,11 @@ sections:
         title: Wellness 2.0
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Wellness 2.0 is an employee welfare app created by PwC to enhance
+          overall well-being. It offers welfare bonuses, and employee shopping
+          discounts, promotes fitness and health activities, and creates a
+          platform for employees to connect.
         image:
           type: ImageBlock
           url: /images/0.png
@@ -112,11 +114,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: FOST logo design
+        title: FOST Brand Design
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          FOST is an automated forecasting platform. This plan uses independent
+          circles as a metaphor for multi-dimensional and multi-angle numbers.
+          Keywords: vibrant, diverse and open prediction. 
         image:
           type: ImageBlock
           url: /images/12.png
@@ -140,7 +144,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          PAD is ...
         image:
           type: ImageBlock
           url: /images/1378920402.jpg
