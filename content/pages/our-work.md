@@ -144,7 +144,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          PAD is ...
         image:
           type: ImageBlock
           url: /images/1378920402.jpg
