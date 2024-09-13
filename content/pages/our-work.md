@@ -114,7 +114,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: FOST brand logo design
+        title: FOST brand design
         tagline: ''
         subtitle: ''
         text: |
