@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: An easier way to reward your employees
+        title: An Easier Way To Reward Your Employees
         tagline: ''
         subtitle: ''
         text: >
