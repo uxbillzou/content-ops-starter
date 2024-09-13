@@ -39,7 +39,7 @@ sections:
             flexDirection: col
             borderColor: border-dark
       - type: FeaturedItem
-        title: Bundls APP design
+        title: Bundls APP Design
         tagline: ''
         subtitle: ''
         text: >
