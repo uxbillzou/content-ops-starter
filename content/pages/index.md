@@ -327,7 +327,7 @@ sections:
 
       Phone: +44 7774348345
 
-      Email: <gaoyuyao88@gmail.com>
+      Email: [talktous@ygdigitaldesign.com]()
     media:
       fields:
         - name: name
