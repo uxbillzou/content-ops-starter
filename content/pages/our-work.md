@@ -90,8 +90,11 @@ sections:
         title: Wellness 2.0
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Wellness2.0 is an employee welfare app created by PwC to enhance
+          overall well-being. It offers welfare bonuses, and employee shopping
+          discounts, promotes fitness and health activities, and creates a
+          platform for employees to connect.
         image:
           type: ImageBlock
           url: /images/0.png
