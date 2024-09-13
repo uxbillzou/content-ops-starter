@@ -43,8 +43,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Bundl App is tailored for specific product users in certain open areas
-          in the United States.
+          Bundls App is tailored for specific product users in certain open
+          areas in the United States.
         image:
           type: ImageBlock
           url: /images/Frame 2116674815.jpg
