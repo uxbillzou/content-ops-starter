@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Elevate Your Brand with Smart Value
+    subtitle: Elevate your brand with smart value
     items:
       - type: FeaturedItem
         title: UX/UI Design
@@ -39,7 +39,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: B2B and SaaS Platforms Design
         tagline: ''
         subtitle: ''
         text: >
@@ -181,8 +181,10 @@ slug: /our services
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: YG - London creative design agency
+  metaDescription: >-
+    websites, Apps, UX, UI, SaaS, B2B, visual design, branding, custom
+    solutions, front-end, back-end, development, ongoing support, maintenance
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
