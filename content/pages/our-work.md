@@ -17,8 +17,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Giftano is a platform that allows companies to easily send digital
-          gifts to their customers and employees.
+          Giftano is a platform that allows companies to send digital gifts to
+          their customers and employees easily.
         image:
           type: ImageBlock
           url: /images/Frame 2116674814.jpg
