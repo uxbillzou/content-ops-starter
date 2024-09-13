@@ -91,7 +91,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Wellness2.0 is an employee welfare app created by PwC to enhance
+          Wellness 2.0 is an employee welfare app created by PwC to enhance
           overall well-being. It offers welfare bonuses, and employee shopping
           discounts, promotes fitness and health activities, and creates a
           platform for employees to connect.
