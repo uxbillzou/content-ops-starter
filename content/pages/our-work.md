@@ -17,8 +17,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Increased corporate sales and brand awareness at Giftano not only in
-          Singapore but also worldwide.
+          Giftano is a platform that allows companies to easily send digital
+          gifts to their customers and employees.
         image:
           type: ImageBlock
           url: /images/Frame 2116674814.jpg
