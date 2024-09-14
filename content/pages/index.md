@@ -162,11 +162,11 @@ sections:
       - url: /images/Frame 2116674811.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/Frame 2116674812.jpg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/WX20240914-151848@2x.png
         altText: Rangle logo
+        type: ImageBlock
+      - url: /images/Frame 2116674812.jpg
+        altText: Sanity logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
