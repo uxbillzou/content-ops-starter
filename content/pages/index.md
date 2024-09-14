@@ -415,5 +415,6 @@ seo:
     1.png
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 ---
