@@ -414,7 +414,6 @@ seo:
     /images/billzou_sketch_of_website_structure_for_YGdesign_in_the_style_o_0199e72d-07c7-4d37-9daf-5914b6396fff
     1.png
   type: Seo
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
