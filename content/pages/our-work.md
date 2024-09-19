@@ -67,7 +67,10 @@ sections:
         title: Design of SaaS Platform
         tagline: ''
         subtitle: ''
-        text: "Bite Stream is a configurable software-as-a-service (SaaS) platform designed to enable fund managers to completely streamline and scale the distribution of private market investment products easily, securely and efficiently.\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n"
+        text: >
+          Bite Stream is a configurable SaaS platform designed to enable fund
+          managers to completely streamline and scale the distribution of
+          private market investment products easily, securely and efficiently.
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
