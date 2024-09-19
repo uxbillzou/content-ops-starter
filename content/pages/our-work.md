@@ -143,8 +143,9 @@ sections:
         title: Fitness Industry Design-PAD
         tagline: ''
         subtitle: ''
-        text: |
-          PAD is ...
+        text: >
+          The design of this pad is primarily for Display the status of members
+          working out in the gym in real time.
         image:
           type: ImageBlock
           url: /images/1378920402.jpg
