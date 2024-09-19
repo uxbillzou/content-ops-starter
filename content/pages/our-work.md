@@ -67,7 +67,10 @@ sections:
         title: Design of SaaS Platform
         tagline: ''
         subtitle: ''
-        text: "Bite Stream is a configurable software-as-a-service (SaaS) platform designed to enable fund managers to completely streamline and scale the distribution of private market investment products easily, securely and efficiently.\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n"
+        text: >
+          Bite Stream is a configurable SaaS platform designed to enable fund
+          managers to completely streamline and scale the distribution of
+          private market investment products easily, securely and efficiently.
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
@@ -91,10 +94,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Wellness 2.0 is an employee welfare app created by PwC to enhance
-          overall well-being. It offers welfare bonuses, and employee shopping
-          discounts, promotes fitness and health activities, and creates a
-          platform for employees to connect.
+          Wellness 2.0 is an employee welfare app from PwC that enhances overall
+          well-being. It offers bonuses and employee shopping discounts,
+          promotes fitness and health activities, and creates a platform for
+          employees to connect.
         image:
           type: ImageBlock
           url: /images/0.png
@@ -144,8 +147,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          The design of this pad is primarily for Display the status of members
-          working out in the gym in real time.
+          The design of this PAD is primarily for displaying the status of
+          members working out in the gym in real-time. 
         image:
           type: ImageBlock
           url: /images/1378920402.jpg
