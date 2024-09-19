@@ -145,7 +145,7 @@ sections:
         subtitle: ''
         text: >
           The design of this PAD is primarily for displaying the status of
-          members working out in the gym in real time.
+          members working out in the gym in real-time. 
         image:
           type: ImageBlock
           url: /images/1378920402.jpg
