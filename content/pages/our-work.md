@@ -95,9 +95,9 @@ sections:
         subtitle: ''
         text: >
           Wellness 2.0 is an employee welfare app from PwC that enhances overall
-          well-being. It offers bonuses, employee shopping discounts, promotes
-          fitness and health activities, and creates a platform for employees to
-          connect.
+          well-being. It offers bonuses and employee shopping discounts,
+          promotes fitness and health activities, and creates a platform for
+          employees to connect.
         image:
           type: ImageBlock
           url: /images/0.png
