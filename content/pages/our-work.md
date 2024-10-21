@@ -13,32 +13,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: An Easier Way To Reward Your Employees
-        tagline: ''
-        subtitle: ''
-        text: >
-          Giftano is a platform that allows companies to send digital gifts to
-          their customers and employees easily.
-        image:
-          type: ImageBlock
-          url: /images/Frame 2116674814.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            borderColor: border-dark
-      - type: FeaturedItem
         title: Bundls APP Design
         tagline: ''
         subtitle: ''
