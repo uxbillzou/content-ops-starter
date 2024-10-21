@@ -159,9 +159,6 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - url: /images/Frame 2116674811.jpg
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/Frame 2116674883.jpg
         altText: Rangle logo
         type: ImageBlock
