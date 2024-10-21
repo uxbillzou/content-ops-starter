@@ -189,32 +189,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: An easier way to reward your employees
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Frame 2116674814.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: center
-            borderColor: border-dark
-            borderStyle: none
-      - type: FeaturedItem
         title: Bundls APP design
         tagline: ''
         subtitle: ''
