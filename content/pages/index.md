@@ -166,7 +166,6 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
         altText: Image alt text placeholder
         elementId: ''
         styles:
