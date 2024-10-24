@@ -171,7 +171,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-        url: /images/Screenshot 2024-10-24 at 11.21.45.png
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
