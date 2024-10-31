@@ -246,8 +246,8 @@ sections:
         title: A redesigned clothing e-commerce website
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |2
+           
         image:
           type: ImageBlock
           url: /images/Frame 2116674800.png
