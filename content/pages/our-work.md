@@ -144,7 +144,7 @@ sections:
       - type: FeaturedItem
         title: A redesigned clothing e-commerce website
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
