@@ -243,7 +243,7 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: A redesigned clothing e-commerce website
         tagline: ''
         subtitle: ''
         text: |
