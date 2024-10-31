@@ -141,6 +141,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - type: FeaturedItem
+        title: A redesigned clothing e-commerce website
+        tagline: ''
+        subtitle: ''
+        text: >
+          I collaborated with MO-BO, a women’s clothing brand, to tailor the UI
+          of the online shopping process and account centre. 
+        image:
+          type: ImageBlock
+          url: /images/Frame 2116674800.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
