@@ -145,8 +145,15 @@ sections:
         title: A redesigned clothing e-commerce website
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          ##### A redesigned clothing e-commerce website to improve the shopping
+          experience.
+
+
+          I collaborated with MO-BO, a women’s clothing brand, to tailor the UI
+          of the online shopping process and account centre. Furthermore, I
+          redesigned the outdated website to a responsive design, better suited
+          for different screen sizes, to enhance the browsing experience.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
