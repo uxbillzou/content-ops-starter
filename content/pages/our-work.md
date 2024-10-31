@@ -150,7 +150,7 @@ sections:
           of the online shopping process and account centre. 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Frame 2116674800.png
           altText: Placeholder text
           styles:
             self:
